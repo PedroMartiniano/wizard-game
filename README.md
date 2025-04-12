@@ -73,7 +73,7 @@ Desenvolvido com Construct 3, uma poderosa engine para criação de jogos 2D. O 
 
 ---
 
-Nome: Pedro Paulino Martiniano
-Código: 25784
+- **Nome:** Pedro Paulino Martiniano
+- **Código:** 25784
 
 Desenvolvido como projeto para a disciplina de Desenvolvimento de Jogos.
