@@ -1,6 +1,11 @@
 # 🎮 Battle Arena - RPG de Sobrevivência
 
-![Game Logo](icons/icon-128.png)
+![Game Print Screen](prints/jogo.png)
+![Game Database](prints/database.png)
+
+## 🔗 Link do Jogo
+
+https://wizard-game-xi.vercel.app
 
 ## 📖 Sobre o Jogo
 
@@ -60,7 +65,7 @@ Desenvolvido com Construct 3, uma poderosa engine para criação de jogos 2D. O 
 
 ## 📲 Como Jogar
 
-1. Abra o arquivo `index.html` em um navegador compatível
+1. Acesse: https://wizard-game-xi.vercel.app
 2. Use as teclas direcionais para movimentar o personagem
 3. Clique com o mouse para atirar magias
 4. Derrote inimigos para acumular pontos
